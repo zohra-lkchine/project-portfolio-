@@ -1,0 +1,9 @@
+.section-1 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.links {
+    display: flex;
+    justify-content: space-between;
+}
